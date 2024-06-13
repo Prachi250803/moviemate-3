@@ -13,7 +13,7 @@ export const Footer = () => {
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-100 sm:mt-0">
           <li>
             <a
-              href="https://www.instagram.com/shubham.ul/"
+              href="https://www.instagram.com"
               target="_blank"
               rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
@@ -23,7 +23,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/shubhamsarda/"
+              href="https://www.linkedin.com"
               target="_blank"
               rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
@@ -33,7 +33,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://twitter.com/shubham_ul"
+              href="https://twitter.com"
               target="_blank"
               rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
@@ -43,7 +43,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://www.youtube.com/channel/UCuH_UB-L_PaVQSBoOqp0cqw"
+              href="https://www.youtube.com"
               target="_blank"
               rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
@@ -53,7 +53,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://github.com/ShubhamSarda"
+              href="https://github.com/Prachi25080"
               target="_blank"
               rel="noreferrer"
               className="hover:underline"
